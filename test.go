@@ -1,4 +1,6 @@
-import (_
+package test
+
+import (
 "fmt" 
 )
 
